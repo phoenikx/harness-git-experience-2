@@ -1,7 +1,7 @@
 connector:
     name: qa vault
     identifier: qa_vault
-    description: "hello world qa vault"
+    description: "qa vault"
     orgIdentifier: default
     projectIdentifier: hello_world
     type: Vault
