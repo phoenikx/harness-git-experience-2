@@ -1,6 +1,6 @@
 connector:
-    name: hello_world123
-    identifier: hello_world123
+    name: hello_world12345
+    identifier: hello_world12345
     description: ""
     orgIdentifier: default
     projectIdentifier: hello_world
