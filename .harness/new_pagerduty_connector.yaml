@@ -6,4 +6,4 @@ connector:
     projectIdentifier: hello_world
     type: PagerDuty
     spec:
-        apiTokenRef: github_personal_access_token_1
+        apiTokenRef: github_personal_access_token_2
