@@ -1,6 +1,6 @@
 connector:
-    name: hello_world
-    identifier: hello_world
+    name: new_pg_duty
+    identifier: new_pg_duty
     description: ""
     orgIdentifier: default
     projectIdentifier: hello_world
