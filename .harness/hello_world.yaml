@@ -1,0 +1,9 @@
+connector:
+    name: hello_world123
+    identifier: hello_world123
+    description: ""
+    orgIdentifier: default
+    projectIdentifier: hello_world
+    type: PagerDuty
+    spec:
+        apiTokenRef: github_personal_access_token
